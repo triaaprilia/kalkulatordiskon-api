@@ -1,12 +1,12 @@
 [
-    {"namaProduk": "Moisturizer", "diskon": "20%", "imageId": "moisturizer"},
-    {"namaProduk": "Serum", "diskon": "10%", "imageId": "serum"},
-    {"namaProduk": "Sunscreen", "diskon": "15%", "imageId": "sunscreen"},
-    {"namaProduk": "Masker", "diskon": "25%", "imageId": "masker"},
-    {"namaProduk": "Facial Wash", "diskon": "5%", "imageId": "facialwash"},
-    {"namaProduk": "Micellar Water", "diskon": "10%", "imageId": "micellarwater"},
-    {"namaProduk": "Toner", "diskon": "5%", "imageId": "toner"},
-    {"namaProduk": "Lip Serum", "diskon": "12%", "imageId": "lipserum"},
-    {"namaProduk": "Scrub", "diskon": "20%", "imageId": "scrub"},
-    {"namaProduk": "Lotion", "diskon": "10%", "imageId": "lotion"}
+    {"namaProduk": "Moisturizer", "diskon": "20%", "imageId": "https://raw.githubusercontent.com/triaaprilia/kalkulatordiskon-api/static-api/produk/moisturizer.jpg"},
+    {"namaProduk": "Serum", "diskon": "10%", "imageId": "https://raw.githubusercontent.com/triaaprilia/kalkulatordiskon-api/static-api/produk/serum.jpg"},
+    {"namaProduk": "Sunscreen", "diskon": "15%", "imageId": "https://raw.githubusercontent.com/triaaprilia/kalkulatordiskon-api/static-api/produk/sunscreen.jpg"},
+    {"namaProduk": "Masker", "diskon": "25%", "imageId": "https://raw.githubusercontent.com/triaaprilia/kalkulatordiskon-api/static-api/produk/masker.png"},
+    {"namaProduk": "Facial Wash", "diskon": "5%", "imageId": "https://raw.githubusercontent.com/triaaprilia/kalkulatordiskon-api/static-api/produk/facialwash.jpg"},
+    {"namaProduk": "Micellar Water", "diskon": "10%", "imageId": "https://raw.githubusercontent.com/triaaprilia/kalkulatordiskon-api/static-api/produk/micellarwater.jpg"},
+    {"namaProduk": "Toner", "diskon": "5%", "imageId": "https://raw.githubusercontent.com/triaaprilia/kalkulatordiskon-api/static-api/produk/toner.jpg"},
+    {"namaProduk": "Lip Serum", "diskon": "12%", "imageId": "https://raw.githubusercontent.com/triaaprilia/kalkulatordiskon-api/static-api/produk/lip.jpg"},
+    {"namaProduk": "Scrub", "diskon": "20%", "imageId": "https://raw.githubusercontent.com/triaaprilia/kalkulatordiskon-api/static-api/produk/scrub.jpg"},
+    {"namaProduk": "Lotion", "diskon": "10%", "imageId": "https://raw.githubusercontent.com/triaaprilia/kalkulatordiskon-api/static-api/produk/lotion.jpg"}
 ]
